@@ -1,4 +1,4 @@
-<?php require "templates/header.php"; ?>
+
 
 <div class="center-align">
 
@@ -76,5 +76,5 @@
 
 </div>
 
-<?php require "templates/footer.php"; ?>
+
 
