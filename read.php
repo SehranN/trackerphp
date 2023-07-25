@@ -34,3 +34,16 @@
     mysqli_close($conn);
 
     ?>
+
+ <br> <br> <br>
+
+    <table>
+        <tr>
+            <td> <a href="insert.php">Add a Product</a> </td>
+            <td> <a href="update.php">Update a Product</a> </td>
+            <td> <a href="delete.php">Remove a Product</a> </td>
+            <td> <a href="index.php">Back to Home Page</a> </td>
+        </tr>
+    </table>
+    
+</div>
