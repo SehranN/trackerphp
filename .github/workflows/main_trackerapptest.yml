@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'trackerAppTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F0E0326887C4E8A8371F05E012C349A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54FAAABCDAEF4B1E917014CCAD6D390C }}
           package: .
