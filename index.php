@@ -1,8 +1,8 @@
-<?php include "templates/header.php"; ?>
 
-<div class="center-align">
+
+<div>
 	<ul>
-		<div class="left-align">
+		<div>
 			<li><a href="read.php"><strong>View Catalog</strong></a></li>
 			<li><a href="insert.php"><strong>Add a Product</strong></a></li>
 			<li><a href="update.php"><strong>Update a Product</strong></a></li>
@@ -12,4 +12,3 @@
 </div>
 
 
-<?php include "templates/footer.php"; ?>
