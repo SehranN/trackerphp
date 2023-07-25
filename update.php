@@ -6,7 +6,7 @@
 
     if (isset($_POST['submit'])) {
 
-        require "database/config.php";
+        require "config.php";
         //Establish the connection
         $conn = mysqli_init();
         mysqli_ssl_set($conn,NULL,NULL,$sslcert,NULL,NULL);
